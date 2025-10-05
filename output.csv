@@ -1,6 +1,0 @@
-Transcript,Summary,Sentiment
-"Agent: Hello, how can I help you?
-Customer: I tried to book a slot yesterday but payment failed and I got charged twice.","The customer tried to book a slot but the payment failed, resulting in a double charge. They are seeking help to resolve the issue and prevent further errors.",Negative
-" Agent: Hello, how can I help you?
-Customer: I tried to book a slot yesterday but payment failed and I got charged twice.
-","The customer tried to book a slot yesterday, but the payment failed and they were charged twice. They are upset about the double charge and are seeking a resolution.",Negative
